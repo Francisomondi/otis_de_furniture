@@ -14,30 +14,15 @@
         <div class="carousel-item active">
            <img src="/images/in.jpg" alt="leather seat" class="bd-placeholder-img" width="100%" height="50%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" rect fill="#777" width="100%" height="50%"/>
          
-          <div class="container">
-            <div class="carousel-caption text-left">
-              <h1>Transform Your Home With Our quality Oval Dinning Designs.</h1>
-
-            </div>
-          </div>
+         
         </div>
         <div class="carousel-item">
                 <img src="/images/ajj.jpg" alt="furniture image" class="bd-placeholder-img" width="100%" height="50%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" rect fill="#777" width="100%" height="50%"/>
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Compliment Your Home's Dinning Room with Customized Round six seater's Otis de Furniture quality Dinning brands.</h1>
-      
-            </div>
-          </div>
+         
         </div>
         <div class="carousel-item">
                 <img src="/images/aii.jpg" alt="leather seat" class="bd-placeholder-img" width="100%" height="50%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" rect fill="#777" width="100%" height="50%"/>
-          <div class="container">
-            <div class="carousel-caption text-right">
-              <h1>DESIGN YOUR DREAM DINNING WITH OTIS DE FURNITURE BEST SQUARE DINNING DESIGNS .</h1>
-             
-            </div>
-          </div>
+          
         </div>
       </div>
       <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
@@ -157,11 +142,11 @@
                     </div>
             
                     <div class="col-md-6">
-                            <h3 style="text-align:center;">COMFERENCE</h3>
+                            <h3 style="text-align:center;">CONFERENCE</h3>
                       <div class="card mb-6 shadow-sm">
                           <a href="/carbinets"> <img src="/images/ajj.jpg" alt="leather seat" class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"  rect fill="#55595c" width="100%" height="100%"/></a>
                         <div class="card-body">
-                          <p class="card-text">At OTIS DE FURNITURE we are kenyas leading Tv stand providers with a variety of collections that can suit you living room perfectly</p>
+                          <p class="card-text">At OTIS DE FURNITURE we are kenyas leading conference table providers with a variety of collections that can suit you living room perfectly</p>
                           <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <a href="/barstools" class="btn btn-sm btn-outline-secondary">View collection</a>
@@ -196,6 +181,8 @@
               <p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
                 <strong class="d-block text-gray-dark">@Telephone</strong>
                 0720868509<br>
+               
+                0724454687<br>
               </p>
             </div>
             <div class="media text-muted pt-3">
@@ -211,7 +198,7 @@
                     <svg class="bd-placeholder-img mr-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 32x32"><title>Placeholder</title><rect fill="#e83e8c" width="100%" height="100%"/><text fill="#e83e8c" dy=".3em" x="50%" y="50%">32x32</text></svg>
                     <p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
                       <strong class="d-block text-gray-dark">@Social-media</strong>
-                     Facebook: <a href="www.facebook.com/noblefurniture">OTIS DE FURNITURE  </a><br>
+                     Facebook: <a href="https://www.facebook.com/otisfurn/">OTIS DE FURNITURE  </a><br>
                      Instagram: <a href="instagram.com/noblefurniture">Otis_De_Furniture  </a><br>
                      Twitter: <a href=" www.twitter.com/noblefurniture">@Otis_de_Furnitures  </a><br>
                      <br>

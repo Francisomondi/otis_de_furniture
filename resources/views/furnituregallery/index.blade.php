@@ -14,31 +14,15 @@
       <div class="carousel-item active">
          <img src="/images/m.jpg" alt="leather seat" class="bd-placeholder-img" width="100%" height="50%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" rect fill="#777" width="100%" height="50%"/>
        
-        <div class="container">
-          <div class="carousel-caption text-left">
-            <h1>Transform Your Home With Our quality Oval Dinning Designs.</h1>
-           
-          </div>
-        </div>
+        
       </div>
       <div class="carousel-item">
               <img src="/images/n.jpg" alt="furniture image" class="bd-placeholder-img" width="100%" height="50%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" rect fill="#777" width="100%" height="50%"/>
-        <div class="container">
-          <div class="carousel-caption">
-            <h1>Compliment Your Home's Dinning Room with Customized Round six seater's Otis de Furniture quality Dinning brands.</h1>
-    
-           
-          </div>
-        </div>
+        
       </div>
       <div class="carousel-item">
               <img src="/images/r.jpg" alt="leather seat" class="bd-placeholder-img" width="100%" height="50%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" rect fill="#777" width="100%" height="50%"/>
-        <div class="container">
-          <div class="carousel-caption text-right">
-            <h1>DESIGN YOUR DREAM DINNING WITH OTIS DE FURNITURE BEST SQUARE DINNING DESIGNS .</h1>
-            
-          </div>
-        </div>
+        
       </div>
     </div>
     <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
@@ -131,6 +115,8 @@
           <p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
             <strong class="d-block text-gray-dark">@Telephone</strong>
             0720868509<br>
+           
+            0724454687<br>
           </p>
         </div>
         <div class="media text-muted pt-3">
